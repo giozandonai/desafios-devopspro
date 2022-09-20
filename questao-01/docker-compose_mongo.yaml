@@ -1,7 +1,7 @@
 version: "3.8"
 
 volumes:
-   mongo_vol:
+  mongo_vol:
 
 networks:
   mongo_net:
